@@ -9,6 +9,7 @@
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -46,6 +47,11 @@
 
 ## Project Status
 Project is: _complete_.
+
+
+## Room for Improvement
+To do:
+- I still want to add a graph screen to it. Couldn't get [Matplotlib](https://matplotlib.org/) to work with Pydroid 3.
 
 
 ## Acknowledgements
